@@ -1,0 +1,2 @@
+arm_moveit:arm_moveit_test1:arm_moveit_test2:arm_moveit_test3:arm_moveit_test4:arm_moveit_test5:arm_moveit_test6:arm_moveit_test7:arm_moveit_test8:robot_description:robot_description_3:robot_description_test
+-DCATKIN_DEVEL_PREFIX=/home/sandun/pickplace_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sandun/pickplace_ws/install -G Unix Makefiles

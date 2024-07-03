@@ -1,0 +1,8 @@
+prefix=/home/sandun/pickplace_ws/install
+
+Name: arm_moveit_test1
+Description: Description of arm_moveit_test1
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

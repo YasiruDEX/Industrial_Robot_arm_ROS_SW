@@ -1,0 +1,1 @@
+pyuic5 -o controller_window.py controller_window.ui

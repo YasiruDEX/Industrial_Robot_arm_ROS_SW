@@ -1,0 +1,8 @@
+prefix=/home/sandun/pickplace_ws/devel
+
+Name: robot_description_test
+Description: Description of robot_description_test
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

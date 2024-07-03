@@ -1,0 +1,8 @@
+prefix=/home/sandun/pickplace_ws/install
+
+Name: arm_moveit
+Description: Description of arm_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
