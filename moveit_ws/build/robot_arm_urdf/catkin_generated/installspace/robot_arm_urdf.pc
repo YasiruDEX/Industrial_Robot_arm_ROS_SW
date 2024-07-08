@@ -1,0 +1,8 @@
+prefix=/home/sandun/moveit_ws/install
+
+Name: robot_arm_urdf
+Description: Description of robot_arm_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs

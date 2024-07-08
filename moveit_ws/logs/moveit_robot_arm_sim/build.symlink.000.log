@@ -1,0 +1,3 @@
+Symlinking /home/sandun/moveit_ws/devel/share/moveit_robot_arm_sim/cmake/moveit_robot_arm_simConfig.cmake
+Symlinking /home/sandun/moveit_ws/devel/share/moveit_robot_arm_sim/cmake/moveit_robot_arm_simConfig-version.cmake
+Symlinking /home/sandun/moveit_ws/devel/lib/pkgconfig/moveit_robot_arm_sim.pc

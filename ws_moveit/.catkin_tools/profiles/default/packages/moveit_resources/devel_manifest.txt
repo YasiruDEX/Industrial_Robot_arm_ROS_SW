@@ -1,0 +1,2 @@
+moveit_resources/moveit_resources
+/home/sandun/ws_moveit/devel/.private/moveit_resources/cmake.lock /home/sandun/ws_moveit/devel/./cmake.lock

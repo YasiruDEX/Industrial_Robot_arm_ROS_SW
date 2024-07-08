@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sandun/ws_moveit/devel/.private/moveit_core/include/moveit/version.h
+
+/home/sandun/ws_moveit/src/moveit/moveit_core/version/version.cpp
+moveit/version.h
+-
+iostream
+-
+cstring
+-
+

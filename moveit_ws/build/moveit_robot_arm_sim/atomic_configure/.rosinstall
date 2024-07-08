@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sandun/moveit_ws/devel/.private/moveit_robot_arm_sim/setup.sh

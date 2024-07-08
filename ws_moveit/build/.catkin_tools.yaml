@@ -1,0 +1,6 @@
+devel_space: /home/sandun/ws_moveit/devel
+install: false
+install_space: /home/sandun/ws_moveit/install
+profile: default
+source_space: /home/sandun/ws_moveit/src
+workspace: /home/sandun/ws_moveit
