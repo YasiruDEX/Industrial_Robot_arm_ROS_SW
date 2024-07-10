@@ -1,0 +1,8 @@
+prefix=/home/sandun/ws_moveit/install
+
+Name: moveit_resources_prbt_moveit_config
+Description: Description of moveit_resources_prbt_moveit_config
+Version: 0.8.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

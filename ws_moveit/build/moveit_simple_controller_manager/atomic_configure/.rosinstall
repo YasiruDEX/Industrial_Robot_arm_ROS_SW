@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sandun/ws_moveit/devel/.private/moveit_simple_controller_manager/setup.sh
